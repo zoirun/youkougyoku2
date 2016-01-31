@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"list":[{"code":322,"indent":0,"parameters":[1,"kouka",0,"actor_1",1,"Actor1_2"]},{"code":0,"indent":0,"parameters":[]}],"name":"白狐顕現","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":322,"indent":0,"parameters":[1,"kouka",0,"actor_1",4,"Actor1_3"]},{"code":0,"indent":0,"parameters":[]}],"name":"黒狐顕現","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":322,"indent":0,"parameters":[1,"kouka",0,"actor_1",0,"kouka"]},{"code":0,"indent":0,"parameters":[]}],"name":"自動解除","switchId":20,"trigger":2},
+{"id":4,"list":[{"code":322,"indent":0,"parameters":[1,"kouka",0,"actor_1",0,"Actor1_2"]},{"code":0,"indent":0,"parameters":[]}],"name":"解除","switchId":1,"trigger":0}
+]
